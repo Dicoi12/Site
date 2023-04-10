@@ -1,0 +1,16 @@
+div{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: smaller;
+}
+footer{
+    background:#964B00(225, 31, 31);
+    padding: 0;
+
+    border-top: 2px solid #964B00;
+    border-width: 100% ;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
