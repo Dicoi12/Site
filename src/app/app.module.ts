@@ -9,6 +9,7 @@ import { FoodPageComponent } from './food-page/food-page.component';
 import { SearchComponent } from './search/search.component';
 import { FormsModule } from '@angular/forms';
 import { FooterComponent } from './footer/footer.component';
+import { TagsComponent } from './tags/tags.component';
 // import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
@@ -18,7 +19,8 @@ import { FooterComponent } from './footer/footer.component';
     HomecomponentComponent,
     FoodPageComponent,
     SearchComponent,
-    FooterComponent
+    FooterComponent,
+    TagsComponent
   ],
   imports: [
     BrowserModule,

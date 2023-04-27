@@ -12,6 +12,7 @@ a{
 a:hover{
     background-color: rgb(187, 104, 37);
     color:white;
+    transition: 0.3s;
 }
 .container{
     margin:0 auto;
